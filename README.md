@@ -11,6 +11,7 @@ This notebook complements the homonymous article written by the authors, by prov
         1. [Code download](https://github.com/rafamartinc/qec_qip_5q#2-2-1-code-download)
         2. [Installation](https://github.com/rafamartinc/qec_qip_5q#2-2-2-installation)
         3. [Execution](https://github.com/rafamartinc/qec_qip_5q#2-2-3-execution)
+3. [wxMaxima Implementation](https://github.com/rafamartinc/qec_qip_5q#3-wxmaxima-implementation)
 
 ---
 
@@ -31,6 +32,8 @@ This notebook complements the homonymous article written by the authors, by prov
 This version of the code has been developed using [Python 3](https://www.python.org/). Additionally, it uses SymPy ([Official website](https://www.sympy.org/en/index.html), [GitHub repo](https://github.com/sympy/sympy)), a Python library for symbolic mathematics, to perform the calculations described in the article. It also uses Jupyter Notebook ([Official website](https://jupyter.org/), [GitHub repo](https://github.com/jupyter/notebook)) to shape the document that contains the code and make it more readable, attaching all associated explanations and references to the main article.
 
 You may choose to just visualize this document online, or to download it in your system if you intend to run it locally and/or edit it.
+
+> The files associated to this implementation can be found in the folder ```jupyter```.
 
 ### 2.1. Online visualization (without installation)
 
@@ -79,5 +82,15 @@ jupyter notebook jupyter/main.ipynb
 ```
 
 If your web browser does not open itself, follow the instructions provided by the command in your terminal. Once the Notebook is ready, you will be able to run the code locally, and apply any modifications.
+
+---
+
+## 3. wxMaxima implementation
+
+You may find the same proceedings implemented in wxMaxima as well. [wxMaxima(https://wxmaxima-developers.github.io/wxmaxima/) is a document based interface for the computer algebra system [Maxima](https://maxima.sourceforge.io/). **Maxima** is a system for the manipulation of symbolic and numerical expressions, including differentiation, integration, Taylor series, Laplace transforms, ordinary differential equations, systems of linear equations, polynomials, sets, lists, vectors, matrices and tensors. Maxima yields high precision numerical results by using exact fractions, arbitrary-precision integers and variable-precision floating-point numbers. Maxima can plot functions and data in two and three dimensions. **wxMaxima** provides menus and dialogs for many common maxima commands, autocompletion, inline plots and simple animations.
+
+You may find more information about how to install and use wxMaxima in different systems at: https://wxmaxima-developers.github.io/wxmaxima/download.html
+
+> The files associated to this implementation can be found in the folder ```wxmaxima```.
 
 ---
