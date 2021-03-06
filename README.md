@@ -1,16 +1,36 @@
 # Quantum codes do not fix qubit independent errors
-#### Authors: J. Lacalle, L. M. Pozo-Coronado, A. L. Fonseca de Oliveira, R. Martin-Cuevas
 
 This notebook complements the homonymous article written by the authors, by proving several claims made in the article with the assistance of a symbolic calculus library for Python, as well as in wxMaxima.
 
 ## Table of Contents
 
-1. Python Implementation
+1. Authors
+2. Python Implementation
     1. Online visualization
     2. Local execution and editing
         1. Code download
         2. Installation
     3. Execution
+
+---
+
+## 1. Authors
+
+- J. Lacalle (1), [jesus.glopezdelacalle@upm.es](mailto://jesus.glopezdelacalle@upm.es)
+
+- L. M. Pozo-Coronado (1), [lm.pozo@upm.es](mailto://lm.pozo@upm.es)
+
+- A. L. Fonseca de Oliveira (2), [fonseca@ort.edu.uy](mailto://fonseca@ort.edu.uy)
+
+- R. Martin-Cuevas (3), [r.martin-cuevas@alumnos.upm.es](mailto://r.martin-cuevas@alumnos.upm.es)
+
+<p>
+    <ul style="font-size: 11px;">
+        <li>(1) Dep. de Matemática Aplicada a las TIC, ETS de Ingeniería de Sistemas Informáticos, Universidad Politécnica de Madrid, C/ Alan Turing s/n, 28031, Madrid, Spain</li>
+        <li>(2) Facultad de Ingeniería, Universidad ORT, Montevideo, Uruguay</li>
+        <li>(3) Programa de Doctorado en Ciencias y Tecnologías de la Computación para Smart Cities, ETS de Ingeniería de Sistemas Informáticos, Universidad Politécnica de Madrid, C/ Alan Turing s/n, 28031, Madrid, Spain</li>
+    </ul>
+</p>
 
 ---
 
