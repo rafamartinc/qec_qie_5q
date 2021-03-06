@@ -91,6 +91,8 @@ You may find the same proceedings implemented in wxMaxima as well. [wxMaxima(htt
 
 You may find more information about how to install and use wxMaxima in different systems at: https://wxmaxima-developers.github.io/wxmaxima/download.html
 
+Alternatively, a PDF version of the code has also been included, should you want to read the code without installing the software.
+
 > The files associated to this implementation can be found in the folder ```wxmaxima```.
 
 ---
