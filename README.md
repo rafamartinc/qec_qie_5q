@@ -40,7 +40,6 @@ The latest version of the implementation in Python can be seen from Jupyter's on
 
 The cache duration on nbviewer.jupyter.org is approximately 10 minutes. Therefore, if a commit to this repository has been done in the last 10 minutes, you may not be seeing the last version of the code. To invalidate the cache and force nbviewer to re-render a notebook page, append ```?flush_cache=true``` to the URL.
 
-
 ### 2.2 Local execution and editing
 
 #### 2.2.1 Code download
@@ -48,15 +47,16 @@ The cache duration on nbviewer.jupyter.org is approximately 10 minutes. Therefor
 You may get this software by downloading this repository in a ZIP compressed file, directly from [this link](https://github.com/rafamartinc/quantum_codes_do_not_fix_qubit_independent_errors/archive/main.zip), and extracting it in the folder of your choice. Alternatively, you may also use the following git command (after installing Git on your system: [Linux and Unix](https://git-scm.com/download/linux), [Git for Windows](https://gitforwindows.org/))
 
 ##### Using HTTPS:
+
 ```shell
 git clone https://github.com/rafamartinc/quantum_codes_do_not_fix_qubit_independent_errors.git
 ```
 
 ##### Using SSH:
+
 ```shell
 git clone git@github.com:rafamartinc/quantum_codes_do_not_fix_qubit_independent_errors.git
 ```
-
 
 ##### 2.2.2 Installation
 
@@ -68,7 +68,7 @@ pip install -r jupyter/requirements.txt
 
 ##### 2.2.3 Execution
 
-After the installation has been completed, and from the same terminal, you may run either one of the following commands to initialize the notebook. Feel free to run and tweak the code.
+After the installation has been completed, and from the same terminal, you may run either one of the following commands to initialize the notebook. A web server will be hosted temporarily on your system in order to render the Jupyter Notebook in your usual web browser. Your web browser should open automatically once you run either one of the following lines:
 
 ```shell
 python -m notebook jupyter/main.ipynb
@@ -77,5 +77,7 @@ python -m notebook jupyter/main.ipynb
 ```shell
 jupyter notebook jupyter/main.ipynb
 ```
+
+If your web browser does not open itself, follow the instructions provided by the command in your terminal. Once the Notebook is ready, you will be able to run the code locally, and apply any modifications.
 
 ---
