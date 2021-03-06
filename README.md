@@ -16,21 +16,13 @@ This notebook complements the homonymous article written by the authors, by prov
 
 ## 1. Authors
 
-- J. Lacalle (1), [jesus.glopezdelacalle@upm.es](mailto://jesus.glopezdelacalle@upm.es)
+- **J. Lacalle**, Dep. de Matemática Aplicada a las TIC, ETS de Ingeniería de Sistemas Informáticos, Universidad Politécnica de Madrid, C/ Alan Turing s/n, 28031, Madrid, Spain ([jesus.glopezdelacalle@upm.es](mailto://jesus.glopezdelacalle@upm.es)).
 
-- L. M. Pozo-Coronado (1), [lm.pozo@upm.es](mailto://lm.pozo@upm.es)
+- **L. M. Pozo-Coronado**, Dep. de Matemática Aplicada a las TIC, ETS de Ingeniería de Sistemas Informáticos, Universidad Politécnica de Madrid, C/ Alan Turing s/n, 28031, Madrid, Spain ([lm.pozo@upm.es](mailto://lm.pozo@upm.es)).
 
-- A. L. Fonseca de Oliveira (2), [fonseca@ort.edu.uy](mailto://fonseca@ort.edu.uy)
+- **A. L. Fonseca de Oliveira**, Facultad de Ingeniería, Universidad ORT, Montevideo, Uruguay ([fonseca@ort.edu.uy](mailto://fonseca@ort.edu.uy))
 
-- R. Martin-Cuevas (3), [r.martin-cuevas@alumnos.upm.es](mailto://r.martin-cuevas@alumnos.upm.es)
-
-<p>
-    <ul style="font-size: 11px;">
-        <li>(1) Dep. de Matemática Aplicada a las TIC, ETS de Ingeniería de Sistemas Informáticos, Universidad Politécnica de Madrid, C/ Alan Turing s/n, 28031, Madrid, Spain</li>
-        <li>(2) Facultad de Ingeniería, Universidad ORT, Montevideo, Uruguay</li>
-        <li>(3) Programa de Doctorado en Ciencias y Tecnologías de la Computación para Smart Cities, ETS de Ingeniería de Sistemas Informáticos, Universidad Politécnica de Madrid, C/ Alan Turing s/n, 28031, Madrid, Spain</li>
-    </ul>
-</p>
+- **R. Martin-Cuevas**, Programa de Doctorado en Ciencias y Tecnologías de la Computación para Smart Cities, ETS de Ingeniería de Sistemas Informáticos, Universidad Politécnica de Madrid, C/ Alan Turing s/n, 28031, Madrid, Spain ([r.martin-cuevas@alumnos.upm.es](mailto://r.martin-cuevas@alumnos.upm.es)).
 
 ---
 
