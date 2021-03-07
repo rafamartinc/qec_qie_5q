@@ -52,13 +52,13 @@ You may get this software by downloading this repository in a ZIP compressed fil
 ##### Using HTTPS:
 
 ```shell
-git clone https://github.com/rafamartinc/quantum_codes_do_not_fix_qubit_independent_errors.git
+git clone https://github.com/rafamartinc/qec_qie_5q.git
 ```
 
 ##### Using SSH:
 
 ```shell
-git clone git@github.com:rafamartinc/quantum_codes_do_not_fix_qubit_independent_errors.git
+git clone git@github.com:rafamartinc/qec_qie_5q.git
 ```
 
 ##### 2.2.2 Installation
